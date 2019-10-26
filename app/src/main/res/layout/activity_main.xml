@@ -13,5 +13,4 @@
         tools:listitem="@layout/item_row_hero" />
 
 
-
 </RelativeLayout>
